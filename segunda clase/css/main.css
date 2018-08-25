@@ -1,0 +1,8 @@
+@font-face{
+    font-family: beautiful-people;
+    src: url('./../fonts/Humble.ttf')
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: beautiful-people;
+}
